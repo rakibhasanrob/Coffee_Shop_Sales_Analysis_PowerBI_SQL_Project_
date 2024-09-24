@@ -40,6 +40,10 @@ The analysis shows that food and hot beverages are the top-performing product ca
 *	Product Metadata Documentation.
 *	Customer Purchase History Reports.
 
+### Interactive Dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiYjNjZDkyZjgtNTI4MC00YzQzLTgxODAtYzJkZGM4ODZlZTYwIiwidCI6ImIyODc5ZDVhLTA0ZDItNDAwNy05NTc0LTQ1MTI3NWYwNmQ4MCIsImMiOjEwfQ%3D%3D
+
 ### Dashboard:
 
 ![Snapshot of Dashboard](https://github.com/user-attachments/assets/1ec42191-15d4-46fd-879e-86a39963b4fa)
